@@ -8,7 +8,25 @@
 	<div class="panel panel-default">
         <div class="panel-heading"><h4>Details of Prince Edward Island Provincial Nominee Program (PEI PNP)</h4></div>
         <div class="panel-body">
-            Details are coming soon.
+            <a href="https://novascotiaimmigration.com/move-here/"
+                target="_blank">
+                Overview of Prince Edward Island Provincial Nominee Program (PEI PNP)
+            </a>
+            <hr>
+            <a href="https://www.princeedwardisland.ca/en/service/submit-your-expression-interest-profile"
+                target="_blank">
+                Details of Expression of Interest Profile of Prince Edward Island Provincial Nominee Program (PEI PNP)
+            </a>
+            <hr>
+            <a href="https://www.princeedwardisland.ca/en/information/office-immigration/expression-interest-draws"
+                target="_blank">
+                Know about Expression of Interest Draws
+            </a>
+            <hr>
+            <a href="https://eoi.princeedwardisland.ca/ieoi/register/register"
+                target="_blank">
+                Apply Online to Prince Edward Island Provincial Nominee Program (PEI PNP)
+            </a>
 		</div>
 	</div>
 </div>

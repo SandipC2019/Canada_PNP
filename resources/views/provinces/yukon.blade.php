@@ -8,7 +8,15 @@
 	<div class="panel panel-default">
         <div class="panel-heading"><h4>Details of Yukon Nominee Program (YNP)</h4></div>
         <div class="panel-body">
-            Details are coming soon.
+            <a href="https://yukon.ca/en/immigration/apply-immigrate-yukon/apply-immigrate-yukon"
+                target="_blank">
+                Application details to immigrate to Yukon
+            </a>
+            <hr>
+            <a href="https://www.yuwin.ca/"
+                target="_blank">
+                Jobs in Yukon
+            </a>
 		</div>
 	</div>
 </div>

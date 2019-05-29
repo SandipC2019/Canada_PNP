@@ -8,7 +8,20 @@
 	<div class="panel panel-default">
         <div class="panel-heading"><h4>Details of Northwest Territories Nominee Program (NTNP)</h4></div>
         <div class="panel-body">
-            Details are coming soon.
+            <a href="https://www.immigratenwt.ca/northwest-territories-living-here"
+                target="_blank">
+                Overview of Northwest Territories Nominee Program (NTNP) Foreign Nationals
+            </a>
+            <hr>
+            <a href="https://www.iti.gov.nt.ca/en/services/nwt-nominee-program"
+                target="_blank">
+                Know about Northwest Territories Nominee Program
+            </a>
+            <hr>
+            <a href="https://www.gov.nt.ca/careers/"
+                target="_blank">
+                Jobs in Northwest Territories
+            </a>
 		</div>
 	</div>
 </div>
